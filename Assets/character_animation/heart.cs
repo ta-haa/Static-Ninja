@@ -36,21 +36,63 @@ public class Heart : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        // Eğer karaktere çarparsa ve etiketlerden biriyle eşleşirse
-        if (other.CompareTag("bull1") || other.CompareTag("bull2") || other.CompareTag("bull3") || other.CompareTag("bull4") ||
-            other.CompareTag("bull5") || other.CompareTag("bull6") || other.CompareTag("bull7") || other.CompareTag("bull8") ||
-            other.CompareTag("bull9") || other.CompareTag("bull10") || other.CompareTag("bull11") || other.CompareTag("bull12") ||
-            other.CompareTag("bull13"))
+        if (other.CompareTag("bull1"))
         {
             TakeDamage(); // Hasar al
         }
+        else if (other.CompareTag("bull2")) // Eğer   etiketiyle çarparsa
+        {
+            TakeDamage(); // Hasar al
+        }
+        else if (other.CompareTag("bull3")) // Eğer   etiketiyle çarparsa
+        {
+            TakeDamage(); // Hasar al
+        }
+        else if (other.CompareTag("bull4")) // Eğer   etiketiyle çarparsa
+        {
+            TakeDamage(); // Hasar al
+        }
+        else if (other.CompareTag("bull5")) // Eğer   etiketiyle çarparsa
+        {
+            TakeDamage(); // Hasar al
+        }
+        else if (other.CompareTag("bull6")) // Eğer   etiketiyle çarparsa
+        {
+            TakeDamage(); // Hasar al
+        }
+        else if (other.CompareTag("bull7")) // Eğer   etiketiyle çarparsa
+        {
+            TakeDamage(); // Hasar al
+        }
+        else if (other.CompareTag("bull8")) // Eğer   etiketiyle çarparsa
+        {
+            TakeDamage(); // Hasar al
+        }
+        else if (other.CompareTag("bull9")) // Eğer   etiketiyle çarparsa
+        {
+            TakeDamage(); // Hasar al
+        }
+        else if (other.CompareTag("bull10")) // Eğer   etiketiyle çarparsa
+        {
+            TakeDamage(); // Hasar al
+        }
+        else if (other.CompareTag("bull11")) // Eğer   etiketiyle çarparsa
+        {
+            TakeDamage(); // Hasar al
+        }
+        else if (other.CompareTag("bull12")) // Eğer   etiketiyle çarparsa
+        {
+            TakeDamage(); // Hasar al
+        }
+        else if (other.CompareTag("bull13")) // Eğer   etiketiyle çarparsa
+        {
+            TakeDamage(); // Hasar al
+        }
+
+
         else if (other.CompareTag("extra_life")) // Eğer "extra_life" etiketiyle çarparsa
         {
             extra_life(); // +1 can ekle
-        }
-        else
-        {
-
         }
     }
 
@@ -103,10 +145,16 @@ public class Heart : MonoBehaviour
                 {
                     heartImages[i].color = Color.white; // Dolu kalp için 
                 }
+
+                else if (i < 1)
+                {
+                    heartImages[i].color = Color.white; // Dolu kalp için 
+                }
                 else
                 {
                     heartImages[i].color = new Color32(56, 56, 56, 255); // Boş kalp için 
                 }
+
             }
             else
             {
