@@ -1,0 +1,136 @@
+{
+    "entries": [
+        {
+            "key": "T1",
+            "value": "Ääni"
+        },
+        {
+            "key": "T2",
+            "value": "Tärinä"
+        },
+        {
+            "key": "T3",
+            "value": "Grafiikka"
+        },
+        {
+            "key": "T4",
+            "value": "Tallenna"
+        },
+        {
+            "key": "T5",
+            "value": "Aloita"
+        },
+        {
+            "key": "T6",
+            "value": "Lunastukset"
+        },
+        {
+            "key": "T7",
+            "value": "Asetukset"
+        },
+        {
+            "key": "T8",
+            "value": "Poistu"
+        },
+        {
+            "key": "T9",
+            "value": "Palkinto"
+        },
+        {
+            "key": "T10",
+            "value": "Tuli"
+        },
+        {
+            "key": "T11",
+            "value": "Veitsi"
+        },
+        {
+            "key": "T12",
+            "value": "Kilpi"
+        },
+        {
+            "key": "T13",
+            "value": "Laser"
+        },
+        {
+            "key": "T14",
+            "value": "Hyppy"
+        },
+        {
+            "key": "T15",
+            "value": "Portaali"
+        },
+        {
+            "key": "T16",
+            "value": "Klooni"
+        },
+        {
+            "key": "T17",
+            "value": "Salama"
+        },
+        {
+            "key": "T18",
+            "value": "Valikko"
+        },
+        {
+            "key": "T19",
+            "value": "Hahmo"
+        },
+        {
+            "key": "T20",
+            "value": "Jatka"
+        },
+        {
+            "key": "T21",
+            "value": "Oletus"
+        },
+        {
+            "key": "T22",
+            "value": "Yritä uudelleen"
+        },
+        {
+            "key": "T23",
+            "value": "Valikko"
+        },
+        {
+            "key": "T24",
+            "value": "Kieli"
+        },
+        {
+            "key": "T25",
+            "value": "Uusi versio"
+        },
+        {
+            "key": "T26",
+            "value": "Autoni"
+        },
+        {
+            "key": "T27",
+            "value": "Suurenna"
+        },
+        {
+            "key": "T28",
+            "value": "Vaihda"
+        },
+        {
+            "key": "T29",
+            "value": "Arvioi"
+        },
+        {
+            "key": "T30",
+            "value": "Onnea matkaan..!"
+        },
+        {
+            "key": "T31",
+            "value": "Voit tehdä sen..!"
+        },
+        {
+            "key": "T32",
+            "value": "Onni olkoon kanssasi..!"
+        },
+        {
+            "key": "T33",
+            "value": "Olen vaarallinen...!!"
+        }
+    ]
+}

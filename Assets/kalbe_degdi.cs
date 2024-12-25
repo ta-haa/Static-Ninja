@@ -4,12 +4,12 @@ using UnityEngine;
 
 public class kalbe_degdi : MonoBehaviour
 {
-    private void OnTriggerEnter2D(Collider2D other)
+    private void OnCollisionEnter2D(Collision2D collision)
     {
-        // Karakterin objesiyle çarpma kontrolü
-        if (other.CompareTag("Player"))
+        if (collision.gameObject.CompareTag("Player"))
         {
             Destroy(gameObject); // kalbi yok et 
         }
     }
+
 }

@@ -1,0 +1,136 @@
+{
+    "entries": [
+        {
+            "key": "T1",
+            "value": "Sound"
+        },
+        {
+            "key": "T2",
+            "value": "Vibration"
+        },
+        {
+            "key": "T3",
+            "value": "Graphics"
+        },
+        {
+            "key": "T4",
+            "value": "Save"
+        },
+        {
+            "key": "T5",
+            "value": "Start"
+        },
+        {
+            "key": "T6",
+            "value": "Credits"
+        },
+        {
+            "key": "T7",
+            "value": "Settings"
+        },
+        {
+            "key": "T8",
+            "value": "Exit"
+        },
+        {
+            "key": "T9",
+            "value": "Reward"
+        },
+        {
+            "key": "T10",
+            "value": "Fire"
+        },
+        {
+            "key": "T11",
+            "value": "Knife"
+        },
+        {
+            "key": "T12",
+            "value": "Shield"
+        },
+        {
+            "key": "T13",
+            "value": "Laser"
+        },
+        {
+            "key": "T14",
+            "value": "Jump"
+        },
+        {
+            "key": "T15",
+            "value": "Portal"
+        },
+        {
+            "key": "T16",
+            "value": "Clone"
+        },
+        {
+            "key": "T17",
+            "value": "Lightn"
+        },
+        {
+            "key": "T18",
+            "value": "Menu"
+        },
+        {
+            "key": "T19",
+            "value": "Character"
+        },
+        {
+            "key": "T20",
+            "value": "Resume"
+        },
+        {
+            "key": "T21",
+            "value": "Default"
+        },
+        {
+            "key": "T22",
+            "value": "Try Again"
+        },
+        {
+            "key": "T23",
+            "value": "Menu"
+        },
+        {
+            "key": "T24",
+            "value": "Language"
+        },
+        {
+            "key": "T25",
+            "value": "new version"
+        },
+        {
+            "key": "T26",
+            "value": "my car"
+        },
+        {
+            "key": "T27",
+            "value": "scale"
+        },
+        {
+            "key": "T28",
+            "value": "Change"
+        },
+        {
+            "key": "T29",
+            "value": "Give Rating"
+        },
+        {
+            "key": "T30",
+            "value": "Good luck to you..! "
+        },
+        {
+            "key": "T31",
+            "value": "You can do it..!"
+        },
+        {
+            "key": "T32",
+            "value": "Luck be with you..!"
+        },
+        {
+            "key": "T33",
+            "value": "ı am dangerous...!!"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "entries": [
+        {
+            "key": "T1",
+            "value": "Ljud"
+        },
+        {
+            "key": "T2",
+            "value": "Vibration"
+        },
+        {
+            "key": "T3",
+            "value": "Grafik"
+        },
+        {
+            "key": "T4",
+            "value": "Spara"
+        },
+        {
+            "key": "T5",
+            "value": "Starta"
+        },
+        {
+            "key": "T6",
+            "value": "Krediter"
+        },
+        {
+            "key": "T7",
+            "value": "Inställningar"
+        },
+        {
+            "key": "T8",
+            "value": "Avsluta"
+        },
+        {
+            "key": "T9",
+            "value": "Belöning"
+        },
+        {
+            "key": "T10",
+            "value": "Eld"
+        },
+        {
+            "key": "T11",
+            "value": "Kniv"
+        },
+        {
+            "key": "T12",
+            "value": "Sköld"
+        },
+        {
+            "key": "T13",
+            "value": "Laser"
+        },
+        {
+            "key": "T14",
+            "value": "Hoppa"
+        },
+        {
+            "key": "T15",
+            "value": "Portal"
+        },
+        {
+            "key": "T16",
+            "value": "Klon"
+        },
+        {
+            "key": "T17",
+            "value": "Blixt"
+        },
+        {
+            "key": "T18",
+            "value": "Meny"
+        },
+        {
+            "key": "T19",
+            "value": "Karaktär"
+        },
+        {
+            "key": "T20",
+            "value": "Fortsätt"
+        },
+        {
+            "key": "T21",
+            "value": "Standard"
+        },
+        {
+            "key": "T22",
+            "value": "Försök igen"
+        },
+        {
+            "key": "T23",
+            "value": "Meny"
+        },
+        {
+            "key": "T24",
+            "value": "språk"
+        },
+        {
+            "key": "T25",
+            "value": "Ny version"
+        },
+        {
+            "key": "T26",
+            "value": "Min bil"
+        },
+        {
+            "key": "T27",
+            "value": "Förstora"
+        },
+        {
+            "key": "T28",
+            "value": "Betyg"
+        },
+        {
+            "key": "T29",
+            "value": "Försök"
+        },
+        {
+            "key": "T30",
+            "value": "Lycka till!"
+        },
+        {
+            "key": "T31",
+            "value": "Du klarar det! "
+        },
+        {
+            "key": "T32",
+            "value": "Framgång! "
+        },
+        {
+            "key": "T33",
+            "value": "Gör det! "
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "entries": [
+        {
+            "key": "T1",
+            "value": "Geluid"
+        },
+        {
+            "key": "T2",
+            "value": "Trillen"
+        },
+        {
+            "key": "T3",
+            "value": "Grafisch"
+        },
+        {
+            "key": "T4",
+            "value": "Opslaan"
+        },
+        {
+            "key": "T5",
+            "value": "Starten"
+        },
+        {
+            "key": "T6",
+            "value": "Credits"
+        },
+        {
+            "key": "T7",
+            "value": "Instellingen"
+        },
+        {
+            "key": "T8",
+            "value": "Afsluiten"
+        },
+        {
+            "key": "T9",
+            "value": "Beloning"
+        },
+        {
+            "key": "T10",
+            "value": "Vuur"
+        },
+        {
+            "key": "T11",
+            "value": "Mes"
+        },
+        {
+            "key": "T12",
+            "value": "Schild"
+        },
+        {
+            "key": "T13",
+            "value": "Laser"
+        },
+        {
+            "key": "T14",
+            "value": "Springen"
+        },
+        {
+            "key": "T15",
+            "value": "Portaal"
+        },
+        {
+            "key": "T16",
+            "value": "Kloon"
+        },
+        {
+            "key": "T17",
+            "value": "Bliksem"
+        },
+        {
+            "key": "T18",
+            "value": "Menu"
+        },
+        {
+            "key": "T19",
+            "value": "Personage"
+        },
+        {
+            "key": "T20",
+            "value": "Doorgaan"
+        },
+        {
+            "key": "T21",
+            "value": "Standaard"
+        },
+        {
+            "key": "T22",
+            "value": "Opnieuw proberen"
+        },
+        {
+            "key": "T23",
+            "value": "Menu"
+        },
+        {
+            "key": "T24",
+            "value": "Taal"
+        },
+        {
+            "key": "T25",
+            "value": "Nieuwe versie"
+        },
+        {
+            "key": "T26",
+            "value": "Mijn auto"
+        },
+        {
+            "key": "T27",
+            "value": "Vergroten"
+        },
+        {
+            "key": "T28",
+            "value": "Wijzigen"
+        },
+        {
+            "key": "T29",
+            "value": "Beoordelen"
+        },
+        {
+            "key": "T30",
+            "value": "Veel succes voor jou..!"
+        },
+        {
+            "key": "T31",
+            "value": "Je kunt het..!"
+        },
+        {
+            "key": "T32",
+            "value": "Moge het geluk met je zijn..!"
+        },
+        {
+            "key": "T33",
+            "value": "Ik ben gevaarlijk...!!"
+        }
+    ]
+}

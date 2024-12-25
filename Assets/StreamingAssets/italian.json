@@ -1,0 +1,136 @@
+{
+    "entries": [
+        {
+            "key": "T1",
+            "value": "Suono"
+        },
+        {
+            "key": "T2",
+            "value": "Vibrazione"
+        },
+        {
+            "key": "T3",
+            "value": "Grafica"
+        },
+        {
+            "key": "T4",
+            "value": "Salva"
+        },
+        {
+            "key": "T5",
+            "value": "Inizia"
+        },
+        {
+            "key": "T6",
+            "value": "Crediti"
+        },
+        {
+            "key": "T7",
+            "value": "Impostazioni"
+        },
+        {
+            "key": "T8",
+            "value": "Esci"
+        },
+        {
+            "key": "T9",
+            "value": "Ricompensa"
+        },
+        {
+            "key": "T10",
+            "value": "Fuoco"
+        },
+        {
+            "key": "T11",
+            "value": "Coltello"
+        },
+        {
+            "key": "T12",
+            "value": "Scudo"
+        },
+        {
+            "key": "T13",
+            "value": "Laser"
+        },
+        {
+            "key": "T14",
+            "value": "Salto"
+        },
+        {
+            "key": "T15",
+            "value": "Portale"
+        },
+        {
+            "key": "T16",
+            "value": "Clone"
+        },
+        {
+            "key": "T17",
+            "value": "Fulmine"
+        },
+        {
+            "key": "T18",
+            "value": "Menu"
+        },
+        {
+            "key": "T19",
+            "value": "Personaggio"
+        },
+        {
+            "key": "T20",
+            "value": "Riprendi"
+        },
+        {
+            "key": "T21",
+            "value": "Predefinito"
+        },
+        {
+            "key": "T22",
+            "value": "Riprova"
+        },
+        {
+            "key": "T23",
+            "value": "Menu"
+        },
+        {
+            "key": "T24",
+            "value": "Lingua"
+        },
+        {
+            "key": "T25",
+            "value": "Nuova versione"
+        },
+        {
+            "key": "T26",
+            "value": "La mia auto"
+        },
+        {
+            "key": "T27",
+            "value": "Ingigantire"
+        },
+        {
+            "key": "T28",
+            "value": "Ridurre"
+        },
+        {
+            "key": "T29",
+            "value": "Impostazioni Avanzate"
+        },
+        {
+            "key": "T30",
+            "value": "Buona fortuna!"
+        },
+        {
+            "key": "T31",
+            "value": "Ce la puoi fare!"
+        },
+        {
+            "key": "T32",
+            "value": "Spero che tu vinca!"
+        },
+        {
+            "key": "T33",
+            "value": "Non arrenderti!"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "entries": [
+        {
+            "key": "T1",
+            "value": "Sonido"
+        },
+        {
+            "key": "T2",
+            "value": "Vibración"
+        },
+        {
+            "key": "T3",
+            "value": "Gráficos"
+        },
+        {
+            "key": "T4",
+            "value": "Guardar"
+        },
+        {
+            "key": "T5",
+            "value": "Comenzar"
+        },
+        {
+            "key": "T6",
+            "value": "Créditos"
+        },
+        {
+            "key": "T7",
+            "value": "Ajustes"
+        },
+        {
+            "key": "T8",
+            "value": "Salir"
+        },
+        {
+            "key": "T9",
+            "value": "Recompensa"
+        },
+        {
+            "key": "T10",
+            "value": "Fuego"
+        },
+        {
+            "key": "T11",
+            "value": "Cuchillo"
+        },
+        {
+            "key": "T12",
+            "value": "Escudo"
+        },
+        {
+            "key": "T13",
+            "value": "Láser"
+        },
+        {
+            "key": "T14",
+            "value": "Saltar"
+        },
+        {
+            "key": "T15",
+            "value": "Portal"
+        },
+        {
+            "key": "T16",
+            "value": "Clon"
+        },
+        {
+            "key": "T17",
+            "value": "Rayo"
+        },
+        {
+            "key": "T18",
+            "value": "Menú"
+        },
+        {
+            "key": "T19",
+            "value": "Personaje"
+        },
+        {
+            "key": "T20",
+            "value": "Reanudar"
+        },
+        {
+            "key": "T21",
+            "value": "Predeterminado"
+        },
+        {
+            "key": "T22",
+            "value": "Intentar de nuevo"
+        },
+        {
+            "key": "T23",
+            "value": "Menú"
+        },
+        {
+            "key": "T24",
+            "value": "idioma"
+        },
+        {
+            "key": "T25",
+            "value": "Nueva versión"
+        },
+        {
+            "key": "T26",
+            "value": "Mi coche"
+        },
+        {
+            "key": "T27",
+            "value": "Agrandar"
+        },
+        {
+            "key": "T28",
+            "value": "Calificación"
+        },
+        {
+            "key": "T29",
+            "value": "Probar"
+        },
+        {
+            "key": "T30",
+            "value": "Buena suerte!"
+        },
+        {
+            "key": "T31",
+            "value": "¡Tú puedes!"
+        },
+        {
+            "key": "T32",
+            "value": "¡Éxito!"
+        },
+        {
+            "key": "T33",
+            "value": "¡Hazlo!"
+        }
+    ]
+}

@@ -8,10 +8,10 @@ using GoogleMobileAds.Api;
 public class reklam : MonoBehaviour
 {
     // These ad units are configured to always serve test ads.
-#if UNITY_ANDROID
-  private string _adUnitId = "ca-app-pub-3940256099942544/1033173712";
+#if UNITY_ANDROID 
+  private string _adUnitId = "ca-app-pub-1453198557559205/347752404465";
 #elif UNITY_IPHONE
-  private string _adUnitId = "ca-app-pub-3940256099942544/4411468910";
+  private string _adUnitId = "ca-app-pub-1453123437559205/312741404465";
 #else
     private string _adUnitId = "unused";
 #endif
@@ -57,7 +57,8 @@ public class reklam : MonoBehaviour
         yield return new WaitForSeconds(0.3f); // Adjust delay based on how long the ad lasts
 
         // Load the main menu scene
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("Death");
+
     }
 
 

@@ -16,13 +16,6 @@ public class boss_spawn : MonoBehaviour
         // Call the Spawn function after a delay of startSpawnTime and then continue to call after spawnTime
         InvokeRepeating("Spawn", startSpawnTime, spawnTime);
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        // Any update logic can be added here
-    }
-
     void Spawn()
     {
         // Ensure there are spawn points and random nukes to select from

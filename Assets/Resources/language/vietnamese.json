@@ -1,0 +1,100 @@
+{
+    "entries": [
+        {
+            "key": "T1",
+            "value": "Âm thanh"
+        },
+        {
+            "key": "T2",
+            "value": "Rung"
+        },
+        {
+            "key": "T3",
+            "value": "Đồ họa"
+        },
+        {
+            "key": "T4",
+            "value": "Lưu"
+        },
+        {
+            "key": "T5",
+            "value": "Bắt đầu"
+        },
+        {
+            "key": "T6",
+            "value": "Tín dụng"
+        },
+        {
+            "key": "T7",
+            "value": "Cài đặt"
+        },
+        {
+            "key": "T8",
+            "value": "Thoát"
+        },
+        {
+            "key": "T9",
+            "value": "Phần thưởng"
+        },
+        {
+            "key": "T10",
+            "value": "Lửa"
+        },
+        {
+            "key": "T11",
+            "value": "Con dao"
+        },
+        {
+            "key": "T12",
+            "value": "Khiên"
+        },
+        {
+            "key": "T13",
+            "value": "Laser"
+        },
+        {
+            "key": "T14",
+            "value": "Nhảy"
+        },
+        {
+            "key": "T15",
+            "value": "Cổng"
+        },
+        {
+            "key": "T16",
+            "value": "Nhân bản"
+        },
+        {
+            "key": "T17",
+            "value": "Sấm sét"
+        },
+        {
+            "key": "T18",
+            "value": "Menu"
+        },
+        {
+            "key": "T19",
+            "value": "Nhân vật"
+        },
+        {
+            "key": "T20",
+            "value": "Tiếp tục"
+        },
+        {
+            "key": "T21",
+            "value": "Mặc định"
+        },
+        {
+            "key": "T22",
+            "value": "Thử lại"
+        },
+        {
+            "key": "T23",
+            "value": "Menu"
+        },
+        {
+            "key": "T24",
+            "value": "ngôn ngữ"
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "entries": [
+        {
+            "key": "T1",
+            "value": "Ton"
+        },
+        {
+            "key": "T2",
+            "value": "Vibration"
+        },
+        {
+            "key": "T3",
+            "value": "Grafik"
+        },
+        {
+            "key": "T4",
+            "value": "Speichern"
+        },
+        {
+            "key": "T5",
+            "value": "Starten"
+        },
+        {
+            "key": "T6",
+            "value": "Kredite"
+        },
+        {
+            "key": "T7",
+            "value": "Einstellungen"
+        },
+        {
+            "key": "T8",
+            "value": "Beenden"
+        },
+        {
+            "key": "T9",
+            "value": "Belohnung"
+        },
+        {
+            "key": "T10",
+            "value": "Feuer"
+        },
+        {
+            "key": "T11",
+            "value": "Messer"
+        },
+        {
+            "key": "T12",
+            "value": "Schild"
+        },
+        {
+            "key": "T13",
+            "value": "Laser"
+        },
+        {
+            "key": "T14",
+            "value": "Sprung"
+        },
+        {
+            "key": "T15",
+            "value": "Portal"
+        },
+        {
+            "key": "T16",
+            "value": "Klon"
+        },
+        {
+            "key": "T17",
+            "value": "Blitz"
+        },
+        {
+            "key": "T18",
+            "value": "Menü"
+        },
+        {
+            "key": "T19",
+            "value": "Charakter"
+        },
+        {
+            "key": "T20",
+            "value": "Fortsetzen"
+        },
+        {
+            "key": "T21",
+            "value": "Standard"
+        },
+        {
+            "key": "T22",
+            "value": "Erneut versuchen"
+        },
+        {
+            "key": "T23",
+            "value": "Menü"
+        },
+        {
+            "key": "T24",
+            "value": "Sprache"
+        },
+        {
+            "key": "T25",
+            "value": "Neue Version"
+        },
+        {
+            "key": "T26",
+            "value": "Mein Auto"
+        },
+        {
+            "key": "T27",
+            "value": "Vergrößern"
+        },
+        {
+            "key": "T30",
+            "value": "Viel Glück für dich..!"
+        },
+        {
+            "key": "T31",
+            "value": "Du kannst es schaffen..!"
+        },
+        {
+            "key": "T32",
+            "value": "Möge das Glück mit dir sein..!"
+        },
+        {
+            "key": "T33",
+            "value": "Ich bin gefährlich...!!"
+        }
+    ]
+}

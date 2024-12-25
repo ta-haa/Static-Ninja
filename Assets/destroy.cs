@@ -15,7 +15,7 @@ public class destroy : MonoBehaviour
     private IEnumerator DestroyAfterDelayCoroutine(GameObject obj)
     {
         // 15 saniye bekle
-        yield return new WaitForSeconds(10f);
+        yield return new WaitForSeconds(15f);
         // Obje yok et
         Destroy(obj);
     }

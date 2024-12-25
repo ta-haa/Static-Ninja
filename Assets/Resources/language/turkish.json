@@ -1,0 +1,100 @@
+{
+    "entries": [
+        {
+            "key": "T1",
+            "value": "Ses"
+        },
+        {
+            "key": "T2",
+            "value": "Titresim"
+        },
+        {
+            "key": "T3",
+            "value": "Grafik"
+        },
+        {
+            "key": "T4",
+            "value": "Kaydet"
+        },
+        {
+            "key": "T5",
+            "value": "Basla"
+        },
+        {
+            "key": "T6",
+            "value": "Yapımcı"
+        },
+        {
+            "key": "T7",
+            "value": "Ayarlar"
+        },
+        {
+            "key": "T8",
+            "value": "Cıkıs"
+        },
+        {
+            "key": "T9",
+            "value": "Odul"
+        },
+        {
+            "key": "T10",
+            "value": "Ates"
+        },
+        {
+            "key": "T11",
+            "value": "Bıcak"
+        },
+        {
+            "key": "T12",
+            "value": "Kalkan"
+        },
+        {
+            "key": "T13",
+            "value": "Lazer"
+        },
+        {
+            "key": "T14",
+            "value": "Zıpla"
+        },
+        {
+            "key": "T15",
+            "value": "Portal"
+        },
+        {
+            "key": "T16",
+            "value": "Klon"
+        },
+        {
+            "key": "T17",
+            "value": "Yıldırım"
+        },
+        {
+            "key": "T18",
+            "value": "Menu"
+        },
+        {
+            "key": "T19",
+            "value": "Karakter"
+        },
+        {
+            "key": "T20",
+            "value": "Devam"
+        },
+        {
+            "key": "T21",
+            "value": "Varsayılan"
+        },
+        {
+            "key": "T22",
+            "value": "Tekrar Dene"
+        },
+        {
+            "key": "T23",
+            "value": "Menu"
+        },
+        {
+            "key": "T24",
+            "value": "Dil"
+        }
+    ]
+}

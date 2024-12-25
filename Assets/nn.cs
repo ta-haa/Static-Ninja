@@ -25,6 +25,13 @@ public class Player : MonoBehaviour
     public void AddMoney(int amount)
     {
         money += amount;
+
+        // Eğer para 0'ın altına düşerse, para miktarını sıfırla
+        if (money < 0)
+        {
+            money = 0;
+        }
+
         Debug.Log("Para eklendi: " + amount + ", Toplam para: " + money);
 
         // Para miktarını kaydet

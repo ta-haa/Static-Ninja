@@ -1,0 +1,136 @@
+{
+    "entries": [
+        {
+            "key": "T1",
+            "value": "Son"
+        },
+        {
+            "key": "T2",
+            "value": "Vibrations"
+        },
+        {
+            "key": "T3",
+            "value": "Graphismes"
+        },
+        {
+            "key": "T4",
+            "value": "Sauvegarder"
+        },
+        {
+            "key": "T5",
+            "value": "Démarrer"
+        },
+        {
+            "key": "T6",
+            "value": "Crédits"
+        },
+        {
+            "key": "T7",
+            "value": "Paramètres"
+        },
+        {
+            "key": "T8",
+            "value": "Quitter"
+        },
+        {
+            "key": "T9",
+            "value": "Récompense"
+        },
+        {
+            "key": "T10",
+            "value": "Feu"
+        },
+        {
+            "key": "T11",
+            "value": "Couteau"
+        },
+        {
+            "key": "T12",
+            "value": "Bouclier"
+        },
+        {
+            "key": "T13",
+            "value": "Laser"
+        },
+        {
+            "key": "T14",
+            "value": "Sauter"
+        },
+        {
+            "key": "T15",
+            "value": "Portail"
+        },
+        {
+            "key": "T16",
+            "value": "Clone"
+        },
+        {
+            "key": "T17",
+            "value": "Éclair"
+        },
+        {
+            "key": "T18",
+            "value": "Menu"
+        },
+        {
+            "key": "T19",
+            "value": "Personnage"
+        },
+        {
+            "key": "T20",
+            "value": "Reprendre"
+        },
+        {
+            "key": "T21",
+            "value": "Par défaut"
+        },
+        {
+            "key": "T22",
+            "value": "Essayer encore"
+        },
+        {
+            "key": "T23",
+            "value": "Menu"
+        },
+        {
+            "key": "T24",
+            "value": "Langue"
+        },
+        {
+            "key": "T25",
+            "value": "Nouvelle version"
+        },
+        {
+            "key": "T26",
+            "value": "Ma voiture"
+        },
+        {
+            "key": "T27",
+            "value": "Agrandir"
+        },
+        {
+            "key": "T28",
+            "value": "Modifier"
+        },
+        {
+            "key": "T29",
+            "value": "Évaluer"
+        },
+        {
+            "key": "T30",
+            "value": "Bonne chance à vous..!"
+        },
+        {
+            "key": "T31",
+            "value": "Vous pouvez le faire..!"
+        },
+        {
+            "key": "T32",
+            "value": "Que la chance soit avec vous..!"
+        },
+        {
+            "key": "T33",
+            "value": "Je suis dangereux...!!"
+        }
+    ]
+}

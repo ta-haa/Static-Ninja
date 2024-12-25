@@ -1,0 +1,136 @@
+{
+    "entries": [
+        {
+            "key": "T1",
+            "value": "Hljóð"
+        },
+        {
+            "key": "T2",
+            "value": "Titringur"
+        },
+        {
+            "key": "T3",
+            "value": "Myndgreining"
+        },
+        {
+            "key": "T4",
+            "value": "Vista"
+        },
+        {
+            "key": "T5",
+            "value": "Byrja"
+        },
+        {
+            "key": "T6",
+            "value": "Kredítar"
+        },
+        {
+            "key": "T7",
+            "value": "Stillingar"
+        },
+        {
+            "key": "T8",
+            "value": "Út"
+        },
+        {
+            "key": "T9",
+            "value": "Verðlaun"
+        },
+        {
+            "key": "T10",
+            "value": "Eldur"
+        },
+        {
+            "key": "T11",
+            "value": "Hnífur"
+        },
+        {
+            "key": "T12",
+            "value": "Skjöldur"
+        },
+        {
+            "key": "T13",
+            "value": "Laser"
+        },
+        {
+            "key": "T14",
+            "value": "Hoppa"
+        },
+        {
+            "key": "T15",
+            "value": "Portal"
+        },
+        {
+            "key": "T16",
+            "value": "Klón"
+        },
+        {
+            "key": "T17",
+            "value": "Elding"
+        },
+        {
+            "key": "T18",
+            "value": "Valmynd"
+        },
+        {
+            "key": "T19",
+            "value": "Persóna"
+        },
+        {
+            "key": "T20",
+            "value": "Halda áfram"
+        },
+        {
+            "key": "T21",
+            "value": "Sjálfgefið"
+        },
+        {
+            "key": "T22",
+            "value": "Reyndu aftur"
+        },
+        {
+            "key": "T23",
+            "value": "Valmynd"
+        },
+        {
+            "key": "T24",
+            "value": "Tungumál"
+        },
+        {
+            "key": "T25",
+            "value": "Ný útgáfa"
+        },
+        {
+            "key": "T26",
+            "value": "Bíll minn"
+        },
+        {
+            "key": "T27",
+            "value": "Stækka"
+        },
+        {
+            "key": "T28",
+            "value": "Stækka"
+        },
+        {
+            "key": "T29",
+            "value": "Hafa í huga"
+        },
+        {
+            "key": "T30",
+            "value": "Gangi þér vel..!"
+        },
+        {
+            "key": "T31",
+            "value": "Þú getur það..!"
+        },
+        {
+            "key": "T32",
+            "value": "Heppni fylgi þér..!"
+        },
+        {
+            "key": "T33",
+            "value": "Ég er hættulegur...!!"
+        }
+    ]
+}

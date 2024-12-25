@@ -7,38 +7,55 @@ public class EnemyMovement : MonoBehaviour
     void Start()
     {
         // Hızı rastgele bir değerle ayarla (1 ile 3 arasında)
-        speed = Random.Range(0.5f, 1f);
+        speed = Random.Range(0.1f, 5f);
     }
 
     void Update()
     {
         // Düşmanın sola doğru hareket etmesini sağla
         transform.Translate(Vector3.left * speed * Time.deltaTime);
-
-
     }
 
-    private void OnTriggerEnter2D(Collider2D other)
+    public void oll()
     {
-        if (other.CompareTag("Player")) // Eğer karaktere çarparsa
+        // Öldü diyelim, burada düşmanı yok etmek için:
+        Destroy(gameObject); // Düşmanı yok et
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+
+        if (collision.gameObject.CompareTag("Player")) // Eğer karaktere çarparsa
         {
-            Destroy(gameObject); // Düşmanı yok et 
+            oll();
         }
-        else if (other.CompareTag("fire")) // Eğer ateşe çarparsa
+        else if (collision.gameObject.CompareTag("fire")) // Eğer ateşe çarparsa
         {
-            Destroy(gameObject); // Düşmanı yok et 
+            oll();
         }
-        else if (other.CompareTag("knife")) // Eğer bıçağa çarparsa
+        else if (collision.gameObject.CompareTag("knife")) // Eğer bıçağa çarparsa
         {
-            Destroy(gameObject); // Düşmanı yok et 
+            oll();
         }
-        else if (other.CompareTag("shield")) // Eğer kalkana çarparsa
+        else if (collision.gameObject.CompareTag("shield")) // Eğer kalkana çarparsa
         {
-            Destroy(gameObject); // Düşmanı yok et 
+            oll();
         }
-        else if (other.CompareTag("clone")) // Eğer klona çarparsa
+        else if (collision.gameObject.CompareTag("clone")) // Eğer klona çarparsa
         {
-            Destroy(gameObject); // Düşmanı yok et 
+            oll();
+        }
+        else if (collision.gameObject.CompareTag("simsek")) // Eğer simseğe çarparsa
+        {
+            oll();
+        }
+        else if (collision.gameObject.CompareTag("laser")) // Eğer lazere çarparsa
+        {
+            oll();
+        }
+        else if (collision.gameObject.CompareTag("my_car")) // Eğer lazere çarparsa
+        {
+            oll();
         }
     }
 }
